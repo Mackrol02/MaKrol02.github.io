@@ -1,5 +1,5 @@
 <!DOCTYPE html >
-< html  lang =" en " >
+< html  lang =" pl " >
   < głowa >
     < zestaw znaków meta  =" UTF-8 " />
     < meta  http-equiv =" X-UA-Compatible " content =" IE=edge " />
@@ -32,7 +32,6 @@
           < p  class =" opis " > Aplikacja </ p >
         </ div >
       </ div >
-
       < klasa div  =" projekt8 " >
         < img  src =" obrazy/lab.jpg " alt =" laptop " />
         < klasa div  =" tytuł " >
